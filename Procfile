@@ -1,0 +1,1 @@
+worker: python price_fetcher_index.py && python news_fetcher_index.py
